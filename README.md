@@ -14,4 +14,4 @@ This is a clone of the New York Times Worlde game app. It serves to demonstrate 
 
 ## Preview
 
-[View React Quiz](https://clyde-hack-word-game.netlify.app/)
+[View Word Game](https://clyde-hack-word-game.netlify.app/)
