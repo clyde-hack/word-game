@@ -1,0 +1,15 @@
+#word-board {
+	display: grid;
+	grid-template-rows: repeat(auto-fit, minmax(1rem, 1fr));
+	list-style-type: none;
+	gap: 0.5rem;
+	max-width: 24rem;
+	margin: 1.5rem auto;
+}
+
+.word {
+	list-style-type: none;
+	display: grid;
+	grid-template-columns: repeat(auto-fit, minmax(1rem, 1fr));
+	gap: 0.5rem;
+}
